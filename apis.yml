@@ -1,0 +1,32 @@
+aid: random-data
+name: Random Data
+description: "Random data generator"
+url: https://random-data-api.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: Random Data
+    description: "Random data generator"
+    humanURL: https://random-data-api.com
+    baseURL: https://random-data-api.com
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: https://random-data-api.com
+common:
+  - type: Website
+    url: https://random-data-api.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
